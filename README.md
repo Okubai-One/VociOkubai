@@ -2,7 +2,7 @@
 
 Voci italiane naturali per il lettore di schermo [NVDA](https://www.nvaccess.org/), che funzionano senza connessione a internet: la sintesi avviene tutta sul computer e nessun testo viene inviato altrove.
 
-Ci sono undici voci. Femminili: Voce uno, Elisa, Alessia, Luna, Beatrice, Elena e Marika. Maschili: Samuel, Adams, Giulio e Jared. Tutte usano lo stesso dizionario di pronuncia italiana e leggono anche i testi in inglese con la pronuncia inglese, senza cambiare voce (si può disattivare nelle impostazioni).
+Ci sono undici voci. Femminili: Voce uno, Elisa, Alessia, Luna, Beatrice, Elena e Marika. Maschili: Samuel, Adams, Giulio e Jared. Tutte usano lo stesso dizionario di pronuncia italiana e leggono in italiano.
 
 ## Requisiti
 
@@ -11,7 +11,7 @@ Ci sono undici voci. Femminili: Voce uno, Elisa, Alessia, Luna, Beatrice, Elena 
 
 ## Installazione
 
-1. Apri la pagina dell'ultima versione, nella sezione Releases, e scarica il file `VociOkubai-0.8.3.nvda-addon`. È il componente principale: contiene il motore di sintesi e Voce uno.
+1. Apri la pagina dell'ultima versione, nella sezione Releases, e scarica il file `VociOkubai-0.8.4.nvda-addon`. È il componente principale: contiene il motore di sintesi e Voce uno.
 2. Apri il file scaricato e conferma l'installazione. Riavvia NVDA quando te lo chiede.
 3. Premi NVDA+Ctrl+S, scegli "Voci Okubai" e premi Invio.
 
@@ -25,7 +25,7 @@ Non serve tornare su questa pagina. In NVDA apri il menu (NVDA+N), poi Strumenti
 
 Poi scegli la voce con NVDA+Ctrl+V.
 
-Ogni voce è anche un componente aggiuntivo separato, per esempio `VociOkubai-voce-marika-0.8.3.nvda-addon`, che si installa come gli altri componenti di NVDA. Funziona solo insieme al componente principale.
+Ogni voce è anche un componente aggiuntivo separato, per esempio `VociOkubai-voce-marika-0.8.4.nvda-addon`, che si installa come gli altri componenti di NVDA. Funziona solo insieme al componente principale.
 
 ## Aggiornamenti
 
