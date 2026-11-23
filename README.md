@@ -11,7 +11,7 @@ Ci sono undici voci. Femminili: Voce uno, Elisa, Alessia, Luna, Beatrice, Elena 
 
 ## Installazione
 
-1. Apri la pagina dell'ultima versione, nella sezione Releases, e scarica il file `VociOkubai-0.8.8.nvda-addon`. È il componente principale: contiene il motore di sintesi e Voce uno.
+1. Apri la pagina dell'ultima versione, nella sezione Releases, e scarica il file `VociOkubai-0.8.9.nvda-addon`. È il componente principale: contiene il motore di sintesi e Voce uno.
 2. Apri il file scaricato e conferma l'installazione. Riavvia NVDA quando te lo chiede.
 3. Premi NVDA+Ctrl+S, scegli "Voci Okubai" e premi Invio.
 
@@ -25,7 +25,7 @@ Non serve tornare su questa pagina. In NVDA apri il menu (NVDA+N), poi Strumenti
 
 Poi scegli la voce con NVDA+Ctrl+V.
 
-Ogni voce è anche un componente aggiuntivo separato, per esempio `VociOkubai-voce-marika-0.8.8.nvda-addon`, che si installa come gli altri componenti di NVDA. Funziona solo insieme al componente principale.
+Ogni voce è anche un componente aggiuntivo separato, per esempio `VociOkubai-voce-marika-0.8.9.nvda-addon`, che si installa come gli altri componenti di NVDA. Funziona solo insieme al componente principale.
 
 ## Aggiornamenti
 
